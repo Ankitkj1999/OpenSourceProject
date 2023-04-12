@@ -80,7 +80,8 @@ Furthermore, some Firebase SDKs are open source, which allows developers to cust
 ___
 <h3>Summery</h3>
 <img title="Server Serving Website" alt="File Transferred" src="/assets/website.png">
-
+https://gfg-flutter-story.web.app/#/
+<a href="https://gfg-flutter-story.web.app/#/"><b><i>Flutter Web App Link</i></b></a>
 <p>
 In this project, the aim is to transfer files from the server to the client using open-source software. However, since file transfer from the server to the client is not possible with Filezilla, Firebase Hosting has been selected as the hosting platform.
 
