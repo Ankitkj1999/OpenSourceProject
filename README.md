@@ -96,4 +96,5 @@ ___
 <h3>Refrences</h3>
 <h4><b>Articles Written By Me On Related Topics</b></h4>
 <ul><li><a href="https://www.geeksforgeeks.org/hosting-flutter-website-on-firebase-for-free/"><b><i>Hosting Flutter Website On Firebase For Free</i></b></a>
+</li><li><a href="https://www.geeksforgeeks.org/hosting-a-static-website-on-firebase-for-free/?ref=rp"><b><i>Hosting A Static Website On Firebase For Free</i></b></a>
 </li></ul>
